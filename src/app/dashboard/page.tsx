@@ -76,7 +76,7 @@ function IncidentRow({ incident }: { incident: IncidentSummary }) {
   return (
     <Link
       href={`/incidents/${incident.id}`}
-      className="flex items-center justify-between rounded-lg border border-[hsl(var(--border))] p-4 transition hover:bg-slate-800/50"
+      className="flex items-center justify-between rounded-lg border border-[hsl(var(--border))] p-4 transition hover:shadow-sm"
     >
       <div className="flex items-start gap-3">
         <StatusIcon status={incident.status} />

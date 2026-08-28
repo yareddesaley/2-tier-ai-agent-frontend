@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Bot, LayoutDashboard, AlertTriangle } from "lucide-react";
 import Link from "next/link";
 import { Providers } from "./providers";
+import "./globals.css"
 
 export const metadata: Metadata = {
   title: "AI Tier-2 Incident Response",

@@ -1,4 +1,4 @@
-// File: C:\Users\Hp\Projects\AiTier2Support\web\src\app\incidents\[id]\page.tsx
+// File: D:\AiTier2Support\Ui\src\app\incidents\[id]\page.tsx
 import * as entry from '../../../../../src/app/incidents/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
